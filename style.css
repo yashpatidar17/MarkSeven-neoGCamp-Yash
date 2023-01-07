@@ -20,7 +20,7 @@ h1{
 }
 
 #text-area{
-    
+    font-family: 'Gloria Hallelujah', cursive;
     display:block;
     margin: auto;
     width: 60%;
@@ -28,6 +28,8 @@ h1{
     border: 5px solid;
     border-radius: 10px;
     margin-top: 2rem;
+    font-size: medium;
+    text-align: center;
 }
 
 #BtnTranslate{
@@ -42,7 +44,7 @@ h1{
     font-style: bold;
 }
 
-#output{
+#outputArea{
     width: 50%;
  border: 1px solid black;
 height: 15vh;
@@ -52,6 +54,7 @@ height: 15vh;
  background-color: white;
  border-radius: 10px;
  border: 5px solid;
+ text-align: center;
 }
 
 #fix-gradient{
